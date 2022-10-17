@@ -1,0 +1,1 @@
+Modify python file to call the decrypt function with the secret as an argument.

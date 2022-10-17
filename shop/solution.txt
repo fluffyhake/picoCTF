@@ -1,0 +1,8 @@
+Run following command to show what type of file the source is:
+$ file source
+It returns:
+source: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), statically linked, Go BuildID=Wq2z6hkBrrAovu6w8dMb/chyUPt3_NgRB5zVfMpf8/99tYvdYHy3xNdHp4wuxA/ClEGFX9e3WU6qjzPxg9K, with debug_info, not stripped
+
+
+Lets find a decompiler
+g
