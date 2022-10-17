@@ -1,0 +1,7 @@
+Netcat answers with a lot of numbers. These look like ascii codes.. interesting.
+
+Lets try to pipe those into awk and see what happens
+
+nc mercury.picoctf.net 35652 | awk '{printf("%c",$1)}'
+
+Docs: https://cplusplus.com/reference/cstdio/printf/
